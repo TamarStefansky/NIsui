@@ -1,0 +1,8 @@
+C:\C#\trans2\trans2\bin\Debug\trans2.exe.config
+C:\C#\trans2\trans2\bin\Debug\trans2.exe
+C:\C#\trans2\trans2\bin\Debug\trans2.pdb
+C:\C#\trans2\trans2\obj\Debug\trans2.csproj.AssemblyReference.cache
+C:\C#\trans2\trans2\obj\Debug\trans2.csproj.SuggestedBindingRedirects.cache
+C:\C#\trans2\trans2\obj\Debug\trans2.csproj.CoreCompileInputs.cache
+C:\C#\trans2\trans2\obj\Debug\trans2.exe
+C:\C#\trans2\trans2\obj\Debug\trans2.pdb
